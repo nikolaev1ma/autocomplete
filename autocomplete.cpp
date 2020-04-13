@@ -131,7 +131,7 @@ int main() {
 			int count;
 			cout << "please state the number of entered numbers: ";
 			cin >> count;
-			сout << "all words must consist only of lowercase small letters\n";
+			cout << "all words must consist only of lowercase small letters\n";
 			cout << "list the words: ";
 			for(int i = 0; i < count; ++i) {
 				std::cin >> word;
